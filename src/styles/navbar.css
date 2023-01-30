@@ -1,0 +1,52 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.navbar-main-container {
+    /* background-color: green; */
+}
+
+.navbar-mini-container {
+    /* background-color: aqua; */
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: var(--fw-large);
+    font-size: var(--fs-small);
+
+}
+
+
+.nav-links-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+
+}
+
+.navbar {
+    display: flex;
+    list-style: none;
+}
+
+.navbar>li {
+    margin-right: 2.5rem;
+    padding: .2rem;
+
+}
+
+.nav-button {
+    display: flex;
+    align-items: center;
+}
+
+.nav-button>button {
+    background-color: transparent;
+
+}
