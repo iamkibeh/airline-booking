@@ -23,3 +23,11 @@
   border: 1px solid grey;
   font-weight: var(--fw-large);
 }
+
+h1 {
+  font-size: 54px;
+}
+
+/* .MuiImageListItem-root {
+  height: 200px !important;
+} */
