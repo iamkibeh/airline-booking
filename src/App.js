@@ -1,5 +1,6 @@
 import { createTheme, ThemeProvider } from '@mui/material/styles'
 import './App.css'
+import Features from './components/pages/Features'
 import HeroSection from './components/pages/HeroSection'
 import Navbar from './components/pages/Navbar'
 import Services from './components/pages/Services'
@@ -25,6 +26,7 @@ function App() {
         <Navbar />
         <HeroSection />
         <Services />
+        <Features />
       </ThemeProvider>
     </div>
   )
