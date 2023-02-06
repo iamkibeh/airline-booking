@@ -43,8 +43,6 @@ const TermsAndConditions = styled(Box)({
   margin: 'auto',
   display: 'flex',
   justifyContent: 'space-between',
-  //   paddingBottom: '1rem',
-  //   borderBottom: '3px solid gray',
 })
 const FormContainer = styled(Stack)({
   display: 'flex',

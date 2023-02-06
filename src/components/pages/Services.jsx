@@ -12,11 +12,12 @@ const OverlayContainer = styled(Box)({
   width: '80%',
   height: '200px',
   margin: 'auto',
-  backgroundColor: 'rgba(0, 0,0, 0.2)',
+  backgroundColor: 'rgb(211,211,211)',
   position: 'absolute',
   bottom: 0,
   left: '10%',
   borderRadius: '10px',
+  zIndex: -1,
 })
 const Services = () => {
   return (

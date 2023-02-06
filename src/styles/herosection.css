@@ -5,7 +5,7 @@
 
 .hero-sec {
     width: 80%;
-    height: 80vh;
+    height: 85vh;
     margin: 0 auto;
     background-image: url('../assets/pexels-asad-photo-maldives-3155666.jpg');
     background-position: center;
@@ -27,7 +27,7 @@
 .facilities-container {
     /* background-color: orange !important; */
     position: absolute;
-    bottom: -10vh;
+    bottom: -12vh;
     left: 15%;
     border: 1px solid #f4f4f4;
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;

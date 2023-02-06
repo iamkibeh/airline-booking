@@ -133,12 +133,30 @@ const Facilities = () => {
               // bgcolor='grey'
               justifyContent='space-between'
             >
-              <Avatar alt='Remy Sharp' src='/static/images/avatar/1.jpg' />
-              <Avatar alt='Travis Howard' src='/static/images/avatar/2.jpg' />
-              <Avatar alt='Cindy Baker' src='/static/images/avatar/3.jpg' />
-              <Avatar alt='Remy Sharp' src='/static/images/avatar/1.jpg' />
-              <Avatar alt='Travis Howard' src='/static/images/avatar/2.jpg' />
-              <Avatar alt='Cindy Baker' src='/static/images/avatar/3.jpg' />
+              <Avatar
+                alt='Remy Sharp'
+                src='https://images.pexels.com/photos/1049298/pexels-photo-1049298.jpeg?auto=compress&cs=tinysrgb&w=1600'
+              />
+              <Avatar
+                alt='Travis Howard'
+                src='https://images.pexels.com/photos/11481539/pexels-photo-11481539.jpeg?auto=compress&cs=tinysrgb&h=566.525&fit=crop&w=633.175&dpr=1'
+              />
+              <Avatar
+                alt='Cindy Baker'
+                src='https://images.pexels.com/photos/1174732/pexels-photo-1174732.jpeg?auto=compress&cs=tinysrgb&w=1600'
+              />
+              <Avatar
+                alt='Remy Sharp'
+                src='https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=1600'
+              />
+              <Avatar
+                alt='Travis Howard'
+                src='https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=1600'
+              />
+              <Avatar
+                alt='Cindy Baker'
+                src='https://images.pexels.com/photos/13004966/pexels-photo-13004966.jpeg?auto=compress&cs=tinysrgb&w=1600'
+              />
             </Stack>
           </Stack>
           <Stack></Stack>
